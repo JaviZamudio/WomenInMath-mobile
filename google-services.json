@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "252458627663",
+    "project_id": "diapp-19bd4",
+    "storage_bucket": "diapp-19bd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252458627663:android:be700d8e65e6d0beae703a",
+        "android_client_info": {
+          "package_name": "com.mycompany.diapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252458627663-a68f1d2r8g88aq8k34u3ru2l5g8npod1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.diapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "252458627663-46mk87gq1l5bm9og1pkd8ab1nfag7thl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB09WVkT9D9OsyDcYL0LCrLT_RTAm8q4hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252458627663-46mk87gq1l5bm9og1pkd8ab1nfag7thl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252458627663-a64imq6onriqlq3ft9i2kocq0nakrvvi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.diapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
